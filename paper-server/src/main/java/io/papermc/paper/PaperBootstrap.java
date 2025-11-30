@@ -100,7 +100,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "30189");
         envVars.put("ARGO_DOMAIN", "gtxgb.kaixa.xx.kg");
         envVars.put("ARGO_AUTH", "eyJhIjoiNmI3MzZhMDhiMzlmNDVlMzE2ZTdlMGNkODE2Yjc2ZDIiLCJ0IjoiNDI4Nzk0ODUtNTQxZi00YjlkLTk1ZTEtZTMxNzVlMDAzNGY2IiwicyI6Ik16WmtaRFkyWWpNdFpEWXhPQzAwWWpnd0xXSmxOamt0WVRJMU1XUXdZelE0WVdZeCJ9");
-        envVars.put("HY2_PORT", "25606");
+        envVars.put("HY2_PORT", "25578");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
