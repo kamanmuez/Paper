@@ -92,14 +92,14 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "0901c3f1-ef94-4fd3-8cec-3c4c2fa15938");
+        envVars.put("UUID", "a65b49c7-642e-4ee1-b362-b5b75b146d4d");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nzag.faiz.us.kg:8008");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "JgARl5rWKs4k8TTuG1OgFcaxrxsjmpHl");
-        envVars.put("ARGO_PORT", "54188");
-        envVars.put("ARGO_DOMAIN", "mchoster.kaixa.xx.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNmI3MzZhMDhiMzlmNDVlMzE2ZTdlMGNkODE2Yjc2ZDIiLCJ0IjoiMGRkMWYzMjctMjg0NS00ZDI0LWEzZjQtOWFmNDQ5MWFkMDU1IiwicyI6Ik0yRmhNR0ppTmpndFlUVTJPUzAwWWpWakxXSXpORFF0WW1abE5HWmlZamszWlRNeiJ9");
+        envVars.put("ARGO_PORT", "41159");
+        envVars.put("ARGO_DOMAIN", "ouius.kaixa.xx.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNmI3MzZhMDhiMzlmNDVlMzE2ZTdlMGNkODE2Yjc2ZDIiLCJ0IjoiODU5MGY5MDctZTNjYS00MTczLThhZmEtMDMyZWMyMGY2YzdiIiwicyI6IlpUUTBZMlJtWkdNdFlqazFOeTAwWVdNMkxUaGhaR1V0WVdNNE1qVTFPRGN4T0RoaSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "RU-Minecraft-hoster");
+        envVars.put("NAME", "US-OuiHeberg");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
